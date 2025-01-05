@@ -1,6 +1,6 @@
 # Guía de Uso de la Aplicación "Gestor de Libros y Autores"
 
-![Captura de pantalla de mostrarDatos.jsp](img/badge literalura.png) 
+![Captura de pantalla de mostrarDatos.jsp](img/badgeliteralura.png) 
 
 La aplicación es un programa en Java que interactúa con una API de libros (Gutendex) para buscar, registrar y gestionar información de libros y autores en una base de datos. A continuación, se describe cómo funciona y cómo utilizar sus características.
 
