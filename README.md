@@ -22,7 +22,7 @@ La aplicación es un programa en Java que interactúa con una API de libros (Gut
     ![Captura de pantalla de mostrarDatos.jsp](img/opcion2.1.JPG)
 
 
-   3. **Listar autores registrados**  
+3. **Listar autores registrados**  
    Despliega todos los autores que se encuentran registrados en la base de datos.
 
    
@@ -44,5 +44,5 @@ La aplicación es un programa en Java que interactúa con una API de libros (Gut
 
     ![Captura de pantalla de mostrarDatos.jsp](img/opcion5.JPG)
 
-7. **Salir de la aplicación**  
+6. **Salir de la aplicación**  
    Cierra el programa.
