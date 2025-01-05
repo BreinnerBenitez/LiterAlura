@@ -40,7 +40,9 @@ La aplicación es un programa en Java que interactúa con una API de libros (Gut
 
 5. **Listar libros por idioma**  
    Muestra los libros registrados en un idioma específico, como inglés (en) o español (es).
-      ![Captura de pantalla de mostrarDatos.jsp](img/opcion5.JPG)
 
-6. **Salir de la aplicación**  
+
+    ![Captura de pantalla de mostrarDatos.jsp](img/opcion5.JPG)
+
+7. **Salir de la aplicación**  
    Cierra el programa.
